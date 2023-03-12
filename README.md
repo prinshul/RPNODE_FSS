@@ -1,5 +1,5 @@
 # RPNODE_FSS
-Robust Prototypical Few-Shot Organ Segmentation with Regularized Neural-ODEs
+[IEEE TMI'22] Robust Prototypical Few-Shot Organ Segmentation with Regularized Neural-ODEs
 
 
 <p align="center">
